@@ -218,7 +218,7 @@
   "dont_have_an_account": "Don't have an account?",
   "2fa_code": "Two-Factor Code",
   "sign_in_account": "Sign in to your account",
-  "sign_in": "Sign in",
+  "sign_in": "Log in",
   "go_back_login": "Go back to the login page",
   "error_during_login": "An error occurred when logging you in. Head back to the login screen and try again.",
   "request_password_reset": "Send reset email",
